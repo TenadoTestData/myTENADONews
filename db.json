@@ -1,8 +1,8 @@
 {
   "News": 
    [
-    { "ImageURL": "https://image.freepik.com/free-photo/close-up-battery-cells-hand_23-2147817197.jpg", "Header": "Planen in Zeiten der Pandemie", "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY","InfoURL":"www.tenado.de" },
-    { "ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg", "Header": "Planen in Zeiten der Pandemie", "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY","InfoURL":"www.tenado.de" },
-    { "ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg", "Header": "Planen in Zeiten der Pandemie", "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY","InfoURL":"www.tenado.de" }
+    { "ImageURL": "https://image.freepik.com/free-photo/close-up-battery-cells-hand_23-2147817197.jpg", "Header": "Planen in Zeiten der Pandemie", "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY","InfoURL":"https://tenado.de/" },
+    { "ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg", "Header": "Planen in Zeiten der Pandemie", "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY","InfoURL":"https://tenado.de/" },
+    { "ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg", "Header": "Planen in Zeiten der Pandemie", "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY","InfoURL":"https://tenado.de/" }
    ]
 }
