@@ -5,22 +5,19 @@
      "Title": "Planen in Zeiten der Pandemie", 
      "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY",
      "InfoURL":"https://tenado.de/de/news-themen/",
-     "Enddate":"2021.03.30",
-     "Products":["TENADO METALL","TENADO HOLZ","TENADO CAD"]
+     "Enddate":"2021.03.30"
     },
     {"ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg",
      "Title": "Neues Webinar: TENADO TRAFFIC",
      "Text":"Machen Sie Ihre Verkehrsplanung wirtschaftlicher!",
      "InfoURL":"https://tenado.de/de/news-themen/",
-     "Enddate":"2021.04.30",
-     "Products":["TENADO PROTECT","TENADO TRAFFIC"]
+     "Enddate":"2021.04.30"
     },
     {"ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg",
      "Title": "Zukunft gestalten",
      "Text":"Die Engineering Newcomer Challenge 2021",
      "InfoURL":"https://tenado.de/de/news-themen/",
-     "Enddate":"2021.05.30",
-     "Products":["TENADO METALL 3D","TENADO CAD 3D"]
+     "Enddate":"2021.05.30"
     }
    ]
 }
