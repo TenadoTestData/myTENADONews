@@ -5,19 +5,85 @@
      "Title": "Planen in Zeiten der Pandemie", 
      "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY",
      "InfoURL":"https://tenado.de/de/news-themen/",
-     "Enddate":1619820000
+     "Enddate":1619820000,
+     "IconID":1
     },
     {"ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg",
      "Title": "Neues Webinar: TENADO TRAFFIC",
      "Text":"Machen Sie Ihre Verkehrsplanung wirtschaftlicher!",
      "InfoURL":"https://tenado.de/de/news-themen/",
-     "Enddate":1622498400
+     "Enddate":1622498400,
+     "IconID":2
     },
     {"ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg",
      "Title": "Zukunft gestalten",
      "Text":"Die Engineering Newcomer Challenge 2021",
      "InfoURL":"https://tenado.de/de/news-themen/",
-     "Enddate":1625090400
+     "Enddate":1625090400,
+     "IconID":3
+    }
+     {"ImageURL": "https://image.freepik.com/free-photo/close-up-battery-cells-hand_23-2147817197.jpg", 
+     "Title": "Hybridschulungen", 
+     "Text":": zusammen, was zusammengehört",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1619820000,
+     "IconID":4
+    },
+    {"ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg",
+     "Title": "Save the Date: 13. – 15. Januar",
+     "Text":"Besuchen Sie uns auf der digitalen BAU 2021",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1622498400,
+     "IconID":5
+    },
+    {"ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg",
+     "Title": "Pfostengenerator",
+     "Text":"Pfosten konstruieren leicht gemacht!",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1625090400,
+     "IconID":6
+    }
+     {"ImageURL": "https://image.freepik.com/free-photo/close-up-battery-cells-hand_23-2147817197.jpg", 
+     "Title": "Planen in Zeiten der Pandemie", 
+     "Text":"Aktuelle Symbole für TENADO PROTECT & TENADO SAFETY",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1619820000,
+     "IconID":7
+    },
+    {"ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg",
+     "Title": "Neues Webinar: TENADO TRAFFIC",
+     "Text":"Machen Sie Ihre Verkehrsplanung wirtschaftlicher!",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1622498400,
+     "IconID":8
+    },
+    {"ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg",
+     "Title": "Zukunft gestalten",
+     "Text":"Die Engineering Newcomer Challenge 2021",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1625090400,
+     "IconID":9
+    }
+     {"ImageURL": "https://image.freepik.com/free-photo/close-up-battery-cells-hand_23-2147817197.jpg", 
+     "Title": "Hybridschulungen", 
+     "Text":": zusammen, was zusammengehört",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1619820000,
+     "IconID":10
+    },
+    {"ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg",
+     "Title": "Save the Date: 13. – 15. Januar",
+     "Text":"Besuchen Sie uns auf der digitalen BAU 2021",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1622498400,
+     "IconID":7
+    },
+    {"ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg",
+     "Title": "Pfostengenerator",
+     "Text":"Pfosten konstruieren leicht gemacht!",
+     "InfoURL":"https://tenado.de/de/news-themen/",
+     "Enddate":1625090400,
+     "IconID":3
     }
    ]
 }
