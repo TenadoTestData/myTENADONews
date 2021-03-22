@@ -47,7 +47,7 @@
      "InfoURL":"https://tenado.de/de/news-themen/",
      "Enddate":1622498400,
      "Startdate":1609455600,
-     "CategoryID":5
+     "CategoryID":3
     },
     {"ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg",
      "Title": "Pfostengenerator",
@@ -55,7 +55,7 @@
      "InfoURL":"https://tenado.de/de/news-themen/",
      "Enddate":1625090400,
      "Startdate":1609455600,
-     "CategoryID":6
+     "CategoryID":4
     },
      {"ImageURL": "https://image.freepik.com/free-photo/close-up-battery-cells-hand_23-2147817197.jpg", 
      "Title": "Planen in Zeiten der Pandemie", 
@@ -63,7 +63,7 @@
      "InfoURL":"https://tenado.de/de/news-themen/",
      "Enddate":1619820000,
      "Startdate":1609455600,
-     "CategoryID":7
+     "CategoryID":2
     },
     {"ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg",
      "Title": "Neues Webinar: TENADO TRAFFIC",
@@ -71,7 +71,7 @@
      "InfoURL":"https://tenado.de/de/news-themen/",
      "Enddate":1622498400,
      "Startdate":1609455600,
-     "CategoryID":8
+     "CategoryID":2
     },
     {"ImageURL": "https://image.freepik.com/free-photo/comfortable-pillow-sofa-decoration-outdoor-balcony_74190-2419.jpg",
      "Title": "Zukunft gestalten",
@@ -79,7 +79,7 @@
      "InfoURL":"https://tenado.de/de/news-themen/",
      "Enddate":1625090400,
      "Startdate":1609455600,
-     "CategoryID":9
+     "CategoryID":3
     },
      {"ImageURL": "https://image.freepik.com/free-photo/close-up-battery-cells-hand_23-2147817197.jpg", 
      "Title": "Hybridschulungen", 
@@ -87,7 +87,7 @@
      "InfoURL":"https://tenado.de/de/news-themen/",
      "Enddate":1619820000,
      "Startdate":1609455600,
-     "CategoryID":10
+     "CategoryID":3
     },
     {"ImageURL": "https://image.freepik.com/free-photo/cute-cat-sitting-rubbish-bin-outdoors_23-2148666769.jpg",
      "Title": "Save the Date: 13. – 15. Januar",
@@ -95,7 +95,7 @@
      "InfoURL":"https://tenado.de/de/news-themen/",
      "Enddate":1622498400,
      "Startdate":1609455600,
-     "CategoryID":5
+     "CategoryID":4
     }
    ]
 }
